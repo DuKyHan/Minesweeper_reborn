@@ -1,4 +1,4 @@
-# PvZ-Reborn
+# Minesweeper
 Hello guy,
 I will guide u how to run my project.
 First, u will check your java version. Come Command Prompt(cmd) and type 'java -version'.
